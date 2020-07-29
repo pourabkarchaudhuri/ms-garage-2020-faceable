@@ -12,11 +12,11 @@ Below are links to the source code repositories of the required components to ma
 
 Link : https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-middleware
 ### Governance Dashboard
-`https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-middleware`
+`https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-admin-console`
 
 Link : https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-admin-console
 ### Desktop Client Application
-`https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-middleware`
+`https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-client`
 
 Link : https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-client
 
