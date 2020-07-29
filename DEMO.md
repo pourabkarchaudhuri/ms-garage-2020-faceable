@@ -9,7 +9,7 @@ Below are the links to the demo and release packages, for the entry to `Microsof
 [`https://app-faceable-webapp-dev.azurewebsites.net`](https://app-faceable-webapp-dev.azurewebsites.net/)
 
 ### Desktop Client Application
-[`Rowland's release link`](Rowland's release link)
+[`https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-client/releases/tag/v6.9.5`](https://github.com/pourabkarchaudhuri/ms-garage-2020-faceable-client/releases/tag/v6.9.5)
 
 ## Development Team
 * Pourab Karchaudhuri
